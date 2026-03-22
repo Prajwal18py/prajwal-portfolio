@@ -8,7 +8,6 @@ export const constextMenuItems = [
   { name: "Paste <u>S</u>hortcut", id: "paste_shortcut" },
   { line: true },
   { name: "📁 Ne<u>w</u> Folder", id: "new_folder", options: false },
-  { name: "🖥️ Display P<u>r</u>operties", id: "display_properties" },
   { line: true },
   { name: "ℹ️ P<u>r</u>operties", id: "properties" },
 ];

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖥️ Prajwal A — Windows 95 Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://prajwal-portfolio.vercel.app)
@@ -137,3 +138,6 @@ public/
 ## 📄 License
 
 MIT License — feel free to use and modify!
+=======
+# prajwal-portfolio
+>>>>>>> 74b614cc09f4d1340f3f3b0a8daf8671cfd0597a
