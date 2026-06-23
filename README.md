@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🖥️ Prajwal A — Windows 95 Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://prajwal-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://prajwal-dev.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
